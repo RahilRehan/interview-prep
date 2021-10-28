@@ -19,3 +19,5 @@ def list_pivoting(l,x):
     greaterTail.next = None
     equalTail.next = greaterHead.next
     smallerTail.next = equalHead.next
+
+    return smallerHead.next

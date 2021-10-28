@@ -14,7 +14,7 @@ def overlapping_lists(l1,l2):
         return None
 
     # both lists have cycle
-    # case: cycles can still be disjoin(i.e they still do not overlap)
+    # case: cycles can still be disjoint(i.e they still do not overlap)
     temp = c1
     while True:
         temp = temp.next

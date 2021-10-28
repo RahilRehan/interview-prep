@@ -10,4 +10,4 @@ def merged_sorted(L1, L2):
             L2 = L2.next
         tail = tail.next
     tail.next = L1 or L2
-    return dummy_head.nex
+    return dummy_head.next

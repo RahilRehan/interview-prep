@@ -14,7 +14,7 @@ def even_odd_merge(L):
         if turn == 0:
             evenTail.next = L
             evenTail = evenTail.next
-        if turn == 1:
+        else:
             oddTail.next = L
             oddTail = oddTail.next
         turn ^= 1
