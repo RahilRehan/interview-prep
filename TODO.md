@@ -48,5 +48,10 @@ class Star:
 - euler path
 - postorder (a lil trickier) - https://www.techiedelight.com/postorder-tree-traversal-iterative-recursive/
 
-### searching and s
-- 
+### searching 
+- partition algorithm (look at 11.7 problem - searching)
+- 11.9 find missing ip address
+
+### bit manipulation
+- learn about bases and conversions
+- conversion between bits, kb, bytes, mb, gb etc
