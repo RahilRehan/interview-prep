@@ -55,3 +55,7 @@ class Star:
 ### bit manipulation
 - learn about bases and conversions
 - conversion between bits, kb, bytes, mb, gb etc
+
+### hash tables
+- ordereddict and lru cache problem
+- smallest subarray covering keywords in order (12.7)
