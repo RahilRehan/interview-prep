@@ -37,6 +37,19 @@ class Star:
 - linked list problems
 - stack and queue problems
 
+### primitives
+- learn more about xor
+- masks in python
+- clear and set lowermost bits
+- signedness in integers and bits
+- shifting
+- caching bits for faster processing
+- commutativity and associativity  for parallel and reorder operations
+- remove lowest set bit => x&(x-1)
+- get lowest set bit => x & ~ (x-1)
+- create a alternating flag in each iteration=> x^=1
+- todo: precomputation(using cache) problems. 0.1 and 0.3
+
 ### stack problems
 - expression evaluation problems, rpn, polish
 - 7.4 dir path normalization, didnt understand well
